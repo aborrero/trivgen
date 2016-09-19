@@ -1,0 +1,307 @@
+A&R
+
+1Q: ¿Es necesario obtener permisos administrativos para acceder al pico del Torreón (Grazalema)?
+1A: Si
+
+2Q: ¿Cuántos metros de desnivel positivos tiene la ruta normal de subida al pico Torreón (Grazalema)?
+2A: 700 m
+
+3Q: ¿Entre qué dos localidades transcurre el Caminito del Rey?
+3A: Ardales y Álora
+
+4Q: ¿Qué sendero conecta los pueblos de El Bosque y Benamahoma?
+4A: Sendero del rio Majaceite
+
+5Q: Área recreativa donde se inicia la ruta normal de ascenso al pico Torrecilla
+5A: Área Recreativa de los Quejigales
+
+6Q: ¿Por qué desfiladero andas si estás haciendo el Caminito del Rey?
+6A: Desfiladero de los Gaitanes
+
+7Q: ¿Mínimo cuántos kilómetros debes hacer para obtener la compostelana?
+7A: 100 km
+
+8Q: ¿Cuántos metros de desnivel positivo tiene la ruta normal de subida al pico del Aljibe?
+8A: 500 m
+
+9Q: ¿Qué desnivel positivo tiene la ruta normal de subida al pico Torrecilla?
+9A: 900 m
+
+10Q: ¿En qué puerto acaba la ruta Benaocaz – Grazalema?
+10A: Puerto del Boyar
+
+11Q: ¿A qué pedanía de Córdoba debes dirigirte si quieres subir La Tiñosa por su ruta normal?
+11A: Las Lagunillas
+
+12Q: ¿Qué ruta cruza longitudinalmente Los Pirineos?
+12A: La transpirenaica
+
+13Q: ¿Cuál es el nombre oficial de las cascadas del Hueznar?
+13A: Área recreativa del Martinete
+
+14Q: ¿Por qué nombre se conoce a dormir al raso por ejemplo en medio de la montaña?
+14A: Vivac
+
+15Q: ¿Qué día de la semana evita para hacer aventuras Arturo Borrero?
+15A: Domingo
+
+16Q: ¿A que pico se accede si subo por la Cañada de las Ánimas?
+16A: Pico Torrecilla
+
+17Q: En las vias ferratas ¿qué nombre recibe un paso en el que la vertical de subida está inclinada hacia atrás?
+17A: Paso atlético
+
+18Q: ¿Cómo se llama el campo base del Aconcagua?
+18A: Plaza de Mulas
+
+19Q: ¿La ruta normal de subida a qué pico se inicia en El Robledal Alto?
+19A: La Maroma
+
+20Q: ¿Cuántas hamacas se colgaron en el campo base del camping de La Herradura 2015?
+20A: 3
+
+21Q: ¿Cuántos metros de desnivel positivo tiene la ruta normal de subida al pico La Maroma?
+21A: 990 m
+
+22Q: ¿Qué barranquismo hicieron Los Extraviaos durante la temporada 2015/2016?
+22A: Ninguno
+
+23Q: ¿Cuántos hobbits se necesitan para subir al Torrecilla?
+23A: 4
+
+24Q: ¿Qué valle necesitas recorrer para subir al Everest por su ruta normal?
+24A: Valle del Khumbu
+
+25Q: ¿En qué sierra andaluza te encuentras si estás en el Área Recreativa Las Conejeras?
+25A: Sierra de las Nieves
+
+26Q: ¿A qué altitud se encuentra el Refugio Poqueira?
+26A: 2.500 msnm
+
+27Q: ¿Qué nombre recibe un montañero que desarrolla su actividad deportiva en Los Alpes?
+27A: Alpinista
+
+28Q: ¿Qué nombre recibe un montañero que desarrolla su actividad deportiva en Los Andes?
+28A: Andinista
+
+29Q: ¿En qué sierra te encuentras si estás en la Hoya del Portillo?
+29A: Sierra Nevada
+
+30Q: ¿A qué sierra debes dirigirte si quieres subir el pico Simancon?
+30A: Grazalema
+
+31Q: ¿Qué nombre reciben los alpinistas que desarrollan su actividad en el Himalaya?
+31A: Himalayistas
+
+32Q: Si te encuentras en Imlil ¿a qué montaña de más de 4.000 msnm te diriges?
+32A: Toubqal
+
+33Q: ¿A qué altitud se conoce, vulgarmente, como la Zona de la Muerte?
+33A: A partir de 7.500 msnm
+
+34Q: Si entras en la Cueva del Hundidero, ¿Por dónde sales?
+34A: Cueva del Gato
+
+35Q: Pico que alcanzaron dos componentes de Los Extraviaos en Austria
+35A: Schökl (/shekel/)
+
+36Q: Tostada grande de pan de pueblo que desayunan Los Extraviaos cuando están de aventuras.
+36A: Tostada de tronco de árbol
+
+37Q: Actividad en la que se sigue un itinerario vertical u horizontal formado por grapas, cadenas, puentes, etc
+37A: Via Ferrata
+
+38Q: Barco activista y aventurero de Greenpeace que atracó en Sevilla en 2015
+38A: Artic Sunrise
+
+39Q: ¿La bandera de qué pais tienen los buques activistas y aventureros de Greenpeace?
+39A: Holanda
+
+40Q: ¿A qué organización pertenece el buque Rainbow Warrior?
+40A: Greenpeace
+
+41Q: A fecha de 2016, ¿es necesario tramitar permisos para ascender el pico de La Maroma?
+41A: No
+
+42Q: ¿Qué montaña subieron Javier Romero y Cristina Cerrada en su viaje a Bilbao en 2016?
+42A: Gorbea
+
+43Q: A fecha de 2016, ¿es necesario tramitar permisos para ascender el pico del Torrecilla?
+43A: No
+
+44Q: A fecha de 2016, ¿es necesario tramitar permisos para ascender el Mulhacen?
+44A: No
+
+45Q: Ciencia cuyo objeto es la exploración y estudio de las cavidades subterráneas
+45A: Espeleología
+
+46Q: Último gran obstáculo que debe superar un alpinista que asciende al Everest por la ruta normal
+46A: Escalón de Hillary
+
+47Q: Tradicional primera etapa del Camino de Santiago frances
+47A: Roncesvalles
+
+48Q: De las montañas de más de 8.000 msnm, ¿cuál es la más recomendada por técnicamente fácil?
+48A: Cho-Oyu
+
+49Q: Montaña de más de 8.000 msnm más próxima al Everest y que comparte parte de su ruta normal
+49A: Lotse
+
+50Q: La montaña de la tierra más cercana al sol
+50A: Chimborazo
+
+51Q: ¿En qué localidad acaba el camino conocido como El Pinsapar?
+51A: Benamahoma
+
+52Q: ¿A qué parque natural te diriges si estás en Puerto Galiz?
+52A: Parque Natural de los Alcornocales
+
+53Q: ¿Es necesario obtener permisos administrativos para ascender al Pico del Aljibe?
+53A: Si
+
+54Q: Refugio vivac en la cara oeste del Mulhacen
+54A: Refugio de la Caldera
+
+55Q: ¿Cuántas webcams tenía el refugio Poqueira en 2016?
+55A: 4
+
+56Q: ¿Cuál fue el pico más bajo que subieron Los Extraviaos en la temporada 2014/2015?
+56A: El Terril (1.129 msnm)
+
+57Q: ¿Qué etapa inicial se ha añadido al Camino de Santiago frances en los últimos años?
+57A: Saint Jean Pied de Port
+
+58Q: ¿Qué categoría tienen los rápidos del Rio Genil donde se hace rafting?
+58A: Clase III
+
+59Q: En 2016, ¿En qué continente termina el rally Paris-Dakar?
+59A: America del sur
+
+60Q: ¿Quien acompañaba a Edmund Hillary en la primera ascención de la historia al Everest?
+60A: Tenzing Norgay
+
+61Q: ¿Qué alpinista fue el primero en ascender las 14 montañas de más de 8.000 metros?
+61A: Reinhold Messner
+
+62Q: ¿Entre qué dos localidades transcurre la ruta de 30 km que hicieron Cristina Cerrada y Salvador Castillo?
+62A: Osuna y Lantejuela
+
+63Q: ¿En qué cueva se desarrolla espeleobarranquismo en la provincia de León?
+63A: Cueva del Valporquero
+
+64Q: ¿En qué aventura puso Salvador Castillo a prueba su mochila estanca por primera vez?
+64A: Cascadas del Hueznar
+
+65Q: ¿En qué localidad se encuentra el rocódromo más grande de España en 2016?
+65A: Arahal
+
+66Q: ¿Quién terminó la primera vuelta al mundo en barco?
+66A: Juan Sebastían Elcano
+
+67Q: ¿Quién hizo la primera travesía de la antártida?
+67A: Edmund Hillary y Vivian Fuchs
+
+68Q: ¿Cómo se llama tradicionalmente a la primera inmersion de buceo?
+68A: Bautismo
+
+69Q: ¿A qué montaña se le conoce también como Monte Godwin?
+69A: K2
+
+70Q: A fecha de 2016, ¿cuál es el único ochomil que no se ha ascendido en invierno?
+70A: K2
+
+71Q: ¿En qué mes y año se consigue la primera cima invernal del Nanga Parbat?
+71A: Febrero 2016
+
+72Q: ¿A qué país debes dirigirte si quieres subir el Annapurna?
+72A: Nepal
+
+73Q: ¿En qué país te encuentras si estás haciendo senderismo en Campobuche?
+73A: España
+
+74Q: ¿En qué país te encuentras si estás haciendo senderismo en Lobuche?
+74A: Nepal
+
+75Q: ¿Qué dos paises comparten la cima del Mont Blanc?
+75A: Italia y Francia
+
+76Q: ¿En qué país te encuentras si estás cruzando el Salar de Uyuni?
+76A: Bolivia
+
+77Q: ¿En qué estación de tren debes bajarte si vas a la Sierra Norte de Sevilla?
+77A: Cazalla-Constantina
+
+78Q: ¿Cuántos km hay entre la estación de tren de Cazalla-Constantina y el camping Batán de las Monjas?
+78A: 9.5 km
+
+79Q: ¿Cuántos rapels tiene la Garganta Verde?
+79A: 4
+
+80Q: ¿Cuál es la primera playa que encuentras si bordeas en kayak Cerro Gordo partiendo desde La Herradura?
+80A: Cantarriján
+
+81Q: ¿Qué barranquismo se puede practicar en Otivar (Granada)?
+81A: Rio Verde
+
+82Q: ¿Qué nombre recibe el refugio de Sierra Bermeja (Estepona)?
+82A: Refugio Los Reales
+
+83Q: ¿Qué refugio de alta montaña se encuentra en la localidad de Jerez del Marquesado?
+83A: Refugio Postero Alto
+
+84Q: ¿En qué sierra se encuentra el refugio Elorrieta?
+84A: Sierra Nevada
+
+85Q: ¿En qué refugio debes alojarte si vas a subir al Aneto?
+85A: Refugio de La Renclusa
+
+86Q: ¿A qué altitud se encuentra el refugio de La Renclusa en Huesca?
+86A: 2.140 msnm
+
+87Q: ¿Qué modalidad de aventura combina kayak con otras disciplinas como senderismo o bici?
+87A: Packraft
+
+88Q: ¿A qué sierra debes dirigirte si quieres subir el Pico Gilillo?
+88A: Sierra de Cazorla
+
+89Q: ¿En qué sierra te encuentras si estás siguiendo el sendero del rio Borosa?
+89A: Sierra de Cazorla
+
+90Q: Según la RAE, ¿qué nombre recibe una excursión para realizar una empresa en punto distante?
+90A: Expedición
+
+91Q: Según la RAE, ¿qué es una empresa de resultado incierto o que presenta riesgos?
+91A: Aventura
+
+92Q: ¿De dónde proviene la palabra Kayak?
+92A: Esquimales (qayaq)
+
+93Q: ¿Qué refugio vivac se encuentra en el Collado del Veleta en su vertiente sur a 3.205 msnm?
+93A: Refugio de la Carihuela
+
+94Q: En 2016, ¿Cuántos refugios de montaña se consideran practicables en Sierra Nevada según la FAM?
+94A: 12
+
+95Q: ¿Dónde se encuentra la gruta de las maravillas?
+95A: Aracena
+
+96Q: ¿Qué proyecto colaborativo crea mapas libres y editables?
+96A: OpenStreetMap
+
+97Q: ¿Qué nombre común recibe una polea suspendida en cables de acero con cierta inclinación para deslizarse?
+97A: Tirolina
+
+98Q: ¿Quién fue la primera mujer de la historia en ascender los 14 ochomiles?
+98A: Edurne Pasabán
+
+99Q: Hasta 2016, ¿quién es la persona que más ochomiles ha ascendido?
+99A: Juanito Oiarzabal
+
+100Q: ¿Qué alpinista español se ha especializado en los últimos años en ascender ochomiles invernales?
+100A: Alex Txicon
+
+101Q: ¿Qué alpinista español es el que más ochomiles ha subido de la historia después de cumplir 60 años?
+101A: Carlos Soria
+
+102Q: ¿A qué mítica montaña te dirijes si estás cruzando el glaciar de Bionnassay?
+102A: Mont Blanc

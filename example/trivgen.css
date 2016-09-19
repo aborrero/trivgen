@@ -1,0 +1,88 @@
+.card_q {
+	border-style:		solid;
+	float:			left;
+	width:			321px; /* 8.5 cm */
+	height:			226px; /* 6 cm */
+	display:		block;
+	border-radius:		5px;
+	border-color:		#a61daf;
+}
+
+.card_a {
+	border-style:		solid;
+	margin-left:		380px;
+	width:			321px; /* 8.5 cm */
+	height:			226px; /* 6 cm */
+	border-radius:		5px;
+	border-color:		#a61daf;
+}
+
+tr {
+	height:			35px;
+}
+
+.card_td_cat1 {
+	border-style:		solid;
+	border-radius:		20px;
+	border-width:		thin;
+	background-color:	green;
+	text-align:		center;
+}
+
+.card_td_cat2 {
+	border-style:		solid;
+	border-radius:		20px;
+	border-width:		thin;
+	background-color:	orange;
+	text-align:		center;
+}
+
+.card_td_cat3 {
+	border-style:		solid;
+	border-radius:		20px;
+	border-width:		thin;
+	background-color:	yellow;
+	text-align:		center;
+}
+.card_td_cat4 {
+	border-style:		solid;
+	border-radius:		20px;
+	border-width:		thin;
+	background-color:	dodgerblue;
+	text-align:		center;
+}
+.card_td_cat5 {
+	border-style:		solid;
+	border-radius:		20px;
+	border-width:		thin;
+	background-color:	brown;
+	text-align:		center;
+}
+.card_td_cat6 {
+	border-style:		solid;
+	border-radius:		20px;
+	border-width:		thin;
+	background-color:	deeppink;
+	text-align:		center;
+}
+
+body {
+	font-size:		12px;
+}
+.card_a img{
+	max-width:		98%;
+	margin-top:		50px;
+}
+.logo {
+	float:			left;
+	width:			40%;
+	background-color:	#17b2ea;
+	height: 		100%;
+	border-radius: 		2px 0 0 2px;
+}
+
+@media print {
+	body * {
+	-webkit-print-color-adjust:	exact;
+	}
+}

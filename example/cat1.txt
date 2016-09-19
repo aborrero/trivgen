@@ -1,0 +1,307 @@
+N&G
+
+1Q: ¿En qué sierra me encuentro si estoy en la Cañada del Cuerno?
+1A: En la Sierra de las Nieves
+
+2Q: ¿A que costa pertenecen las playas de la zona de La Herradura?
+2A: Costa Tropical
+
+3Q: ¿A qué grupo de arboles pertenecen especies como el pino y el pinsapo?
+3A: Coníferas
+
+4Q: Árbol milenario característico que puedes ver en los bosques de la Maroma
+4A: El tejo
+
+5Q: ¿Como se llama el pilar que suele encontrarse en la mayoría de cimas de montañas?
+5A: Vértice o punto geodésico
+
+6Q: Nombre del embalse de aguas turquesas en Ardáles
+6A: Embalse del Conde de Guadalhorce
+
+7Q: ¿Qué árboles característicos de montaña podemos encontrar en la altiplanicie del Torrecilla?
+7A: El quejigo
+
+8Q: En el rio Genil se hace rafting, ¿dónde nace?
+8A: Sierra Nevada
+
+9Q: En el rio Genil se hace rafting, ¿dónde desemboca?
+9A: Rio Guadalquivir
+
+10Q: ¿De qué rio es afluente el río Hueznar?
+10A: Guadalquivir
+
+11Q: ¿En qué municipio se encuentra la Garganta Verde?
+11A: Zahara de la Sierra
+
+12Q: ¿Qué clase de animal es un pulpo?
+12A: Molusco cefalópodo
+
+13Q: ¿De qué provincia es El Torrecilla la montaña más alta?
+13A: De ninguna
+
+14Q: ¿De qué provincia es el pico del Aljibe la montaña más alta?
+14A: De ninguna
+
+15Q: ¿A qué parque natural pertenece la Sauceda y el pico del Aljibe?
+15A: Los Alcornocales
+
+16Q: ¿A qué municipio pertenece el pico Torrecilla?
+16A: Tólox
+
+17Q: ¿Cuál es la montaña más alta de España?
+17A: Teide (3.718 msnm)
+
+18Q: ¿Cuál es la montaña más alta de la península ibérica?
+18A: Mulhacen (3.478 msnm)
+
+19Q: ¿Dónde se encuentra el glaciar Perito Moreno?
+19A: Argentina, Patagonia
+
+20Q: ¿Qué nombre recibe el suelo que está siempre en estado de congelación?
+20A: Permafrost
+
+21Q: ¿Qué altitud tiene el pico del Aljibe?
+21A: 1.092 msnm
+
+22Q: ¿Qué altitud tiene el pico La Maroma?
+22A: 2.069 msnm
+
+23Q: ¿Qué altitud tiene el pico Torrecilla?
+23A: 1.919 msnm
+
+24Q: ¿Qué altitud tiene el pico La Tiñosa (Córdoba)?
+24A: 1.568 msnm
+
+25Q: ¿Qué altitud tiene el pico Torreón (Grazalema)?
+25A: 1.648 msnm
+
+26Q: ¿Qué altitud tiene el pico Reloj (Grazalema)?
+26A: 1.539 msnm
+
+27Q: ¿Qué son los Andes?
+27A: Cordillera / Cadena montañosa
+
+28Q: ¿Qué altitud tiene el pico Veleta?
+28A: 3.398 msnm
+
+29Q: El hielo es de color azul cuando se forma en una determinada circunstancia, ¿Cuál?
+29A: Alta presión
+
+30Q: A parte de en el Himalaya ¿En qué cordillera hay también ochomiles?
+30A: Karakorum
+
+31Q: ¿A qué municipio pertenece la playa de La Herradura?
+31A: Almuñecar
+
+32Q: ¿A qué municipio pertenece la playa de Marina del Este?
+32A: Almuñecar
+
+33Q: ¿A qué parque natural pertenece la playa de Cantarriján?
+33A: Parque Natural de Maro-Cerro Gordo
+
+34Q: ¿En que cordillera se encuentra el pico Toubqal?
+34A: Atlas
+
+35Q: ¿Qué altitud tiene el pico Toubqal?
+35A: 4.167 msnm
+
+36Q: ¿Dónde desemboca el río Sella?
+36A: Mar Cantábrico
+
+37Q: ¿Dónde nace el rio Sella?
+37A: Picos de Europa
+
+38Q: ¿En qué país se encuentran las cataratas del Iguazú?
+38A: Argentina
+
+39Q: ¿Sobre qué dos paises se extiende el territorio conocido como la Patagonia?
+39A: Chile y Argentina
+
+40Q: ¿De dónde es endémico el Lince Ibérico?
+40A: De la peninsula ibérica
+
+41Q: Máxima altitud de la Portugal peninsular
+41A: 1.993 msnm (Torre, Sierra de la Estrella)
+
+42Q: Longitud del Rio Guadalquivir
+42A: 657 km
+
+43Q: ¿En qué país se encuentra el glaciar Upsala?
+43A: Argentina
+
+44Q: Nombre del programa de las Naciones Unidas para el medio ambiente
+44A: UNEP 
+
+45Q: Restos de nave o artefacto sumergido total o parcialmente en una masa de agua
+45A: Pecio
+
+46Q: Rocas, banco de arena u otros elementos sumergidos a baja profundidad
+46A: Arrecife
+
+47Q: ¿Qué altitud tiene el pico Simancón?
+47A: 1.566 msnm
+
+48Q: ¿Qué altitud tiene el pico Aneto?
+48A: 3.404 msnm
+
+49Q: ¿De dónde es el pico Aneto la montaña más alta?
+49A: Pirineo
+
+50Q: Pico más alto de la provincia de Almería
+50A: Chullo
+
+51Q: ¿Qué altitud tiene el pico Chullo?
+51A: 2.611 msnm
+
+52Q: Costa a la que pertenece la playa de El Palmar
+52A: Costa de la Luz
+
+53Q: Macizo montañoso de gran densidad forestal ubicado al suroeste de Alemania
+53A: Selva Negra
+
+54Q: Terreno de clima muy frío y subsuelo helado, pocos arboles, abundantes musgos y pantanoso en muchos sitios
+54A: Tundra
+
+55Q: Estado de agitación del mar que no está relacionado con el viento presente en el sitio
+55A: Mar de fondo
+
+56Q: Fruto marrón que se puede conseguir en abundancia por los caminos de la Sierra de Aracena
+56A: Castaña
+
+57Q: Los helechos se reproducen mediante ...
+57A: Esporas
+
+58Q: De manera genérica, ¿cómo se denomina el clima de Andalucía?
+58A: Clima mediterráneo
+
+59Q: ¿A qué efecto se debe que Grazalema sea uno de los lugares más lluviosos de España?
+59A: Efecto Föhn
+
+60Q: Nombre científico del Pinsapo común
+60A: Abies pinsapo
+
+61Q: Término de origen aragonés y vasco para definir pequeños lagos de montaña de procedencia glaciar
+61A: Ibón
+
+62Q: En 2016 ¿Qué buscador de internet planta un árbol por cada búsqueda que se hace?
+62A: Ecosia
+
+63Q: ¿Qué distancia recorre el rio Volga?
+63A: 3.700 km
+
+64Q: ¿Qué es el Monte Fuji?
+64A: Volcán
+
+65Q: ¿De dónde es originario el bonsai?
+65A: China
+
+66Q: ¿Cuál es el cetáceo más abundante en el Mediterraneo?
+66A: Delfín
+
+67Q: ¿Cómo se llama la parte del rio en la que mezcla sus aguas con el mar?
+67A: Ria
+
+68Q: ¿Cuál es la variedad de peces más abundante del Mar Muerto?
+68A: En el Mar Muerto no hay peces
+
+69Q: ¿En qué vivienda no hay insectos?
+69A: En un iglú
+
+70Q: ¿En qué se convierten las hojas de las plantas que habitan en zonas de baja humedad?
+70A: Espinas
+
+71Q: ¿Cuál es el pájaro más grande del mundo?
+71A: Condor
+
+72Q: ¿Qué mamífero tiene extremidades membranosas?
+72A: Murciélago
+
+73Q: ¿De qué país actual es el Kilimanjaro la montaña más alta?
+73A: Kenia
+
+74Q: ¿Qué rio de américa del sur es el mayor después del Amazonas?
+74A: Orinoco
+
+75Q: ¿Cuál es la capital de Nepal?
+75A: Katmandú
+
+76Q: ¿En qué país centroamericano el Volcán de Agua echa fuego?
+76A: Guatemala
+
+77Q: ¿En qué provincia está el desfiladero de Roncesvalles?
+77A: Navarra
+
+78Q: Pico más alto de la provincia de Madrid
+78A: Peñalara (2.428 msnm)
+
+79Q: ¿En qué océano se encuentran las islas Salomón?
+79A: Pacífico
+
+80Q: ¿Qué lago se encuentra en la ciudad de Chigaco?
+80A: Michigan
+
+81Q: ¿Qué estrecho separa el Oceano Pacífico del Círculo Polar Ártico?
+81A: Estrecho de Bering
+
+82Q: ¿En qué provincia se encuentra el Monte Perdido?
+82A: Huesca
+
+83Q: ¿Qué mar baña los paises balcánicos?
+83A: Adriático
+
+84Q: Templo más imponente de Adra en el corazón de la India
+84A: Taj Mahal
+
+85Q: ¿En qué océano te bañarías si te vas con unos amigos a Reunión?
+85A: En el Índico
+
+86Q: ¿Qué rio africano también se llama Zaire?
+86A: El rio Congo
+
+87Q: ¿Qué tipo de animal es el chochín?
+87A: Pájaro / Ave
+
+88Q: ¿Cuál es el nombre común del Quercus canariensis?
+88A: Quejigo
+
+89Q: ¿Qué tipología de hojas tiene el pino común?
+89A: Acículas
+
+90Q: ¿Cuál es la capital de Peru?
+90A: Lima
+
+91Q: ¿Cuál es la capital de Ecuador?
+91A: Quito
+
+92Q: ¿Cuál es la capital de Kenia?
+92A: Nairobi
+
+93Q: ¿Cuál es la capital de Tailandia?
+93A: Bangkok
+
+94Q: ¿Cuál es la montaña más alta de EEUU?
+94A: McKinley / Denali (6.168 msnm)
+
+95Q: ¿Cuál es el nombre oficial del romero?
+95A: Rosmarinus officinalis
+
+96Q: ¿Cómo el punto más estrecho del Canal de la Mancha?
+96A: Paso de Calais
+
+97Q: ¿Qué gran rio pasa por Paris?
+97A: El Sena
+
+98Q: ¿Qué clasificación de animales comparten especies como la estrella y el pepino de mar?
+98A: Equinodermos
+
+99Q: ¿Qué pica, el mosquito macho o la hembra?
+99A: La hembra
+
+100Q: ¿Qué nombre común tiene un hidrometeoro consistente en una masa visible de gotas de agua microscópicas?
+100A: Nube
+
+101Q: ¿Qué animal duerme 22 horas al dia de media lo que lo convierte en el que más duerme?
+101A: Koala
+
+102Q: ¿La erupción de qué volcan en 1883 se pudo escuchar en Australia a 4.800 km de distancia del origen?
+102A: Volcán Krakatoa (Indonesia)

@@ -1,0 +1,307 @@
+T&M
+
+1Q: ¿Cuál es el nombre de la membrana equivalente al GoreTex fabricada por Decathlon?
+1A: Novadry
+
+2Q: ¿Qué es necesario usar en la suela de las botas para progresar por hielo/nieve?
+2A: Crampones
+
+3Q: ¿Por el uso de qué objeto se caracteriza la marcha nórdica?
+3A: Palos o bastones de senderismo
+
+4Q: ¿De qué marca son las botas de trekking que usó Javier Romero Abrio en 2015/2016?
+4A: Bestard
+
+5Q: ¿Con qué cara de una manta de supervivencia debes envolverte si quieres protegerte del frio?
+5A: Con la plateada (dorada hacia fuera)
+
+6Q: Una persona envuelta en la cara dorada hacia dentro de una manta de supervivencia, se está protegiendo de ..
+6A: Se está protegiendo del calor
+
+7Q: Nombre genérico de la lámpara de gas incandescente que se usa en campings
+7A: Lumi o Lumigas
+
+8Q: ¿Qué bálsamo esotérico lleva Pablo Serrano en el botiquín?
+8A: Bálsamo de Tigre
+
+9Q: ¿Qué equipamiento evita que se mojen los pies por capilaridad del pantalón?
+9A: Polainas
+
+10Q: Marca más conocida de suelas de botas de trekking
+10A: Vibram
+
+11Q: ¿De qué país es el fabricante Bestard?
+11A: España
+
+12Q: ¿Qué fenómeno físico principal hace que un ocho de escalada haga su función?
+12A: Fricción o rozamiento (entre la cuerda y el ocho)
+
+13Q: ¿Qué nombre recibe un grupo de personas que progresan en una montaña unidos por una cuerda?
+13A: Cordada
+
+14Q: ¿Que ocurre con la nieve cuando hay mucha diferencia de temperatura entre el día (alta) y la noche (baja)?
+14A: Se convierte en hielo.
+
+15Q: En la montaña, ¿a partir de que altitud aumenta mucho la exposición al sol y se necesita protección solar fuerte?
+15A: 2.000 msnm
+
+16Q: ¿A partir de qué altitud pueden empezar a notarse los efectos de la altura (oxígeno, dolor de cabeza, etc)?
+16A: 2.500 msnm
+
+17Q: ¿A qué elemento personal engancharías un mosquetón, una cuerda u otro elemento de sujeción?
+17A: Arnés
+
+18Q: ¿Qué tipo de material es el GoreTex y similares?
+18A: Membrana textil
+
+19Q: Palabra inglesa para referirse a una sensación térmica inferior a la del ambiente por efecto del viento
+19A: Windchill
+
+20Q: ¿Cuál es el formato más común para ficheros de rutas GPS?
+20A: GPX
+
+21Q: Según Decathlon, ¿cuántas calorías por hora se queman al practicar snorkel?
+21A: 600 cal/h
+
+22Q: ¿Qué tipo de mapa representa el relieve de la superficie del terreno?
+22A: Topográfico
+
+23Q: ¿Qué tipo de objeto es el pedernal?
+23A: Piedra
+
+24Q: ¿Para qué se usa típicamente la yesca y el pedernal?
+24A: Encender fuego
+
+25Q: ¿Qué característica del neopreno indica su capacidad de aislamiento térmico?
+25A: Grosor
+
+26Q: ¿Qué producto se usa en las tablas de surf para mejorar el agarre del usuario?
+26A: Parafina
+
+27Q: ¿Qué elemento sujeta una tienda de campaña al suelo?
+27A: Piqueta
+
+28Q: ¿Cómo se llama el componente más interior de una cuerda de escalada?
+28A: Alma
+
+29Q: ¿De qué país es el fabricante Chiruca?
+29A: España
+
+30Q: ¿De qué país es el fabricante The North Face?
+30A: EEUU
+
+31Q: ¿Qué herramienta personal de mano para la escalada en hielo caracteriza a los alpinistas?
+31A: Piolet
+
+32Q: ¿Qué dos datos representan una posición sobre el globo terrestre (GPS)?
+32A: Longitud y latitud
+
+33Q: ¿En qué orden se deben calzar las polainas y los crampones?
+33A: Primero las polainas y luego los crampones
+
+34Q: Nombre de la técnica de descenso por una cuerda
+34A: Rápel
+
+35Q: Bolsa para líquido que se introduce en la mochila y de la que sale un tubo para beber
+35A: Camelback
+
+36Q: ¿De qué animal salen las plumas que se usan en sacos de dormir y chaquetones?
+36A: Ganso, oca o pato
+
+37Q: Problema que tradicionalmente tienen los forros polares y que los softshell resuelven
+37A: Impermeabilidad / corta vientos
+
+38Q: Nombre del punto de sujección principal de un arnes
+38A: Anillo ventral o aro ventral
+
+39Q: En escalada, aclaje fijo al final de una pared o un largo
+39A: Reunión
+
+40Q: Pieza formada por una cinta y dos mosquetones, uno para la pared y otro para la cuerda
+40A: Cinta express
+
+41Q: Calzado típico de escalada en roca
+41A: Pies de gato
+
+42Q: Cuerda que se tensa desde la tienda de campaña a una piqueta
+42A: Viento
+
+43Q: Tienda de campaña clásica con forma de triángulo y planta rectangular
+43A: Canadiense
+
+44Q: Tienda de campaña clásica que suele tener dos varillas cruzadas, planta cuadrada y pequeño avance
+44A: Iglú
+
+45Q: Método de información de excursiones
+45A: MIDE
+
+46Q: Linterna ajustada sobre la frente
+46A: Frontal
+
+47Q: En un mapa topográfico, linea que une todos los puntos con igualdad de altitud
+47A: Curva de nivel
+
+48Q: ¿Cuántos satélites conforman la red GPS mundial?
+48A: 24
+
+49Q: Fenómeno físico, motivo principal por el que las tiendas de campaña tienen doble techo
+49A: Condensación
+
+50Q: Marca propia de Decathlon para ropa, objetos y otros materiales de montaña
+50A: Qechua
+
+51Q: Marca propia de Decathlon para ropa, objetos y otros materiales de alpinismo
+51A: Simond
+
+52Q: ¿Qué significan las siglas 'msnm'?
+52A: Metros sobre el nivel del mar
+
+53Q: ¿Qué dolencia fisiológica es la principal causante de las congelaciones en alta montaña?
+53A: Falta de oxígeno en sangre
+
+54Q: Aparato para medir el pulso y el nivel oxígeno en sangre
+54A: Pulsioxímetro
+
+55Q: Componente antiséptico y principal del Betadine
+55A: Yodo
+
+56Q: Marca propia de Decathlon para ropa, objetos y otros materiales de agua
+56A: Tribord
+
+57Q: Unidad de medida que suele usarse para reflejar la capacidad de las mochilas
+57A: Litros
+
+58Q: Unidad de medida que indica la capacidad de iluminación de una linterna
+58A: Lúmenes
+
+59Q: En las tiendas de campaña, ¿qué unidad se usa para indicar su resistencia al viento?
+59A: km/h
+
+60Q: Material sinténtico plástico en que suelen fabricarse los kayaks
+60A: Polietileno
+
+61Q: Lado izquierdo de una embarcación
+61A: Babor
+
+62Q: Lado derecho de una embarcación
+62A: Estribor
+
+63Q: Parte delantera de una embarcación
+63A: Proa
+
+64Q: Parte trasera de una embarcación
+64A: Popa
+
+65Q: Longitud de una embarcación desde la proa a la popa
+65A: Eslora
+
+66Q: En las medidas de una embarcación, ¿qué representa la manga?
+66A: longitud de babor a estribor
+
+67Q: Unidad de longitud utilizada en navegación marítima y aerea
+67A: Milla náutica
+
+68Q: ¿De qué país es originario Decathlon?
+68A: Francia
+
+69Q: En 2016, ¿Qué precio tenía el kit de snorkel básico en Decathlon?
+69A: 15€
+
+70Q: ¿Dónde deben descansar el peso las mochilas grandes?
+70A: En la cadera
+
+71Q: ¿Qué objeto ha hecho famoso el ejército suizo?
+71A: La navaja suiza
+
+72Q: ¿Cómo se llama a la temperatura mínima óptima soportada por un saco de dormir?
+72A: Temperatura de confort
+
+73Q: Cuando el palo de trekking está en vertical, ¿Qué ángulo deben formar el brazo y antebrazo que lo sostienen?
+73A: 90º (ángulo recto)
+
+74Q: En los crampones profesionales, ¿Qué pieza se incluye para evitar la acumulación de hielo en la planta?
+74A: Antizuecos / Antizancos
+
+75Q: ¿Qué tipo de roseta debes poner en un palo de trekking para evitar que se clave en la nieve? 
+75A: Roseta dentada
+
+76Q: ¿Qué accesorio es necesario utilizar para progresar por una gran acumulación de nieve en polvo?
+76A: Raquetas
+
+77Q: ¿Qué accesorio debes colocar en la punta de un bastón de trekking para andar por asfalto?
+77A: Contera / Punta de goma
+
+78Q: ¿Para qué tipo de superficie sirve una roseta no dentada de un palo de trekking?
+78A: Barro / Piedras sueltas
+
+79Q: ¿Qué nombre recibe técnicamente la punta de un bastón de trekking?
+79A: Regatón
+
+80Q: Estilo de subir una montaña en el que distintos campos se aprovisionan para después ser usados al alcanzar la cima
+80A: Estilo expedición
+
+81Q: ¿Qué modalidad de la licencia federativa de montaña habilita para media temporada?
+81A: A1
+
+82Q: En escalada, ¿qué nombre común recibe un asegurdor con frenado asistido?
+82A: Grigri
+
+83Q: ¿Cómo se llama a la altitud mínima a partir de la cual las precipitaciones se congelan?
+83A: Cota de nieve
+
+84Q: ¿Hasta qué máximo número de puntas suelen tener los crampones profesionales?
+84A: 12
+
+85Q: ¿Cómo se llama la bolsa donde se guardan las flechas de un arco?
+85A: Carcaj
+
+86Q: ¿Qué nudo suele formarse por accidente en un ocho de escalada mal montado?
+86A: Nudo de alondra
+
+87Q: ¿A qué formación en el hielo debes prestar atención al progresar por un glaciar?
+87A: Grietas
+
+88Q: En una masa de hielo, ¿qué es una rimaya?
+88A: Grieta
+
+89Q: En 2016 ¿Qué modalidad de la licencia federativa de montaña habilita para todo el mundo más de 8.000 msnm?
+89A: D2
+
+90Q: En 2016 ¿Qué modalidad de la licencia federativa de montaña habilita para un día sólo senderismo?
+90A: A2
+
+91Q: ¿Qué unidad de medida de la velocidad se usa en navegación marítima y aérea?
+91A: Nudo
+
+92Q: ¿A cuántas millas náuticas por hora equivalen dos nudos?
+92A: 2 millas náuticas
+
+93Q: ¿A cuántos kilómetros por hora equivalen 10 metros por segundo?
+93A: 36 km/h
+
+94Q: ¿Qué nombre común recibe la parte giratoria de un helicóptero que genera la sustentación aerodinámica?
+94A: Rotor
+
+95Q: ¿Qué instrumento de orientación es inútil en los polos?
+95A: Brújula
+
+96Q: ¿A qué polo magnético señala una brújula?
+96A: Al polo sur magnético
+
+97Q: ¿Qué símbolo circular tiene marcados los rumbos en que se divide la circunferencia del horizonte?
+97A: Rosa de los vientos
+
+98Q: ¿Qué nombre recibe la maniobra de encuentro entre dos naves espaciales?
+98A: Rendezvous
+
+99Q: ¿Qué fenómeno físico permite a las placas solares convertir luz en electricidad?
+99A: Efecto fotovoltaico
+
+100Q: ¿Qué nombre recibe, en alpinismo y montañismo, una cuerda auxiliar más delgada que la normal?
+100A: Cordino
+
+101Q: ¿Cuál es el principio activo de la aspirina?
+101A: Ácido acetilsalicílico
+
+102Q: Estilo de subir una montaña en autosuficiencia, montando y desmontando campos a medida que se asciende
+102A: Estilo alpino

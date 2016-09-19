@@ -1,0 +1,307 @@
+W
+
+1Q: ¿A qué identificativo intentó cambiar Salvador Castillo en 2016?
+1A: Ventus Animas
+
+2Q: Palabra escondida; HOTEL, OSCAR, LIMA, ALFA
+2A: HOLA
+
+3Q: ¿Quién dijo por primera vez ‘confirmativo’?
+3A: Alejandro Castillo Posada (pico Torreón 2015)
+
+4Q: Identificativo de radio de Arantxa Fernandez
+4A: MIKE FOXTROT
+
+5Q: ¿Qué número de canal han usado los Extraviaos en 2015 y 2016 para las comunicaciones de walkies?
+5A: 2.3 (canal 2 subtono 3)
+
+6Q: ¿Cuál es el nombre común del botón que se pulsa para hablar?
+6A: PTT (push to talk)
+
+7Q: ¿De qué película sale el identificativo Jefe Oro?
+7A: Star Wars, episodio 4, Una nueva esperanza
+
+8Q: Palabra del alfabeto radiofónico para la letra G
+8A: GOLF
+
+9Q: Palabra del alfabeto radiofónico para la letra I
+9A: INDIA
+
+10Q: Palabra del alfabeto radiofónico para la letra J
+10A: JULIETT
+
+11Q: Palabra del alfabeto radiofónico para la letra K
+11A: KILO
+
+12Q: Palabra del alfabeto radiofónico para la letra L
+12A: LIMA
+
+13Q: Palabra del alfabeto radiofónico para la letra N
+13A: NOVEMBER
+
+14Q: Palabra del alfabeto radiofónico para la letra O
+14A: OSCAR
+
+15Q: Palabra del alfabeto radiofónico para la letra Q
+15A: QUEBEC
+
+16Q: Palabra del alfabeto radiofónico para la letra R
+16A: ROMEO
+
+17Q: Palabra del alfabeto radiofónico para la letra T
+17A: TANGO
+
+18Q: Palabra del alfabeto radiofónico para la letra U
+18A: UNIFORM
+
+19Q: Palabra del alfabeto radiofónico para la letra V
+19A: VICTOR
+
+20Q: Palabra del alfabeto radiofónico para la letra W
+20A: WHISKEY
+
+21Q: Palabra del alfabeto radiofónico para la letra X
+21A: XRAY
+
+22Q: Palabra del alfabeto radiofónico para la letra Y
+22A: YANKEE
+
+23Q: Palabra del alfabeto radiofónico para la letra Z
+23A: ZULU
+
+24Q: ¿Qué potencia máxima de transmisión tienen los walki-talkies PMR?
+24A: 0.5 W
+
+25Q: ¿Qué elemento es obligatoriamente fijo (no puede cambiarse) en walki-talkies PMR?
+25A: La antena
+
+26Q: ¿Qué modo de un walki-talkie activa la escucha del canal aunque no se esté recibiendo ninguna transmisión?
+26A: Modo monitor
+
+27Q: En códigos Q, ¿qué significa QSL?
+27A: Recibido
+
+28Q: ¿En qué unidad se mide la potencia de transmisión de un walkie-talkie?
+28A: Watios
+
+29Q: ¿Cuál es el identificativo de Cristina Cerrada?
+29A: DOBLE CHARLIE
+
+30Q: ¿Cuál es el canal estándar en la banda PMR para seguridad en montaña?
+30A: 7.7 (canal 7 subtono 7)
+
+31Q: ¿Qué identificativo tiene Javier Romero?
+31A: JEFE ORO
+
+32Q: ¿Qué identificativo tiene Salvador Castillo?
+32A: SIERRA CHARLIE
+
+33Q: ¿Cuál es el identificativo de Pablo Castillo?
+33A: PAPA CHARLIE
+
+34Q: Identificativo de Helena Delgado Hinojosa
+34A: HOTEL DELTA
+
+35Q: ¿Cuál es el identificativo de Arturo Borrero?
+35A: ALFA BRAVO
+
+36Q: ¿Cuál es el identificativo de Pablo Serrano?
+36A: PAPA SIERRA
+
+37Q: Palabra del alfabeto radiofónico para la letra A
+37A: ALFA
+
+38Q: Palabra del alfabeto radiofónico para la letra B
+38A: BRAVO
+
+39Q: Palabra del alfabeto radiofónico para la letra D
+39A: DELTA
+
+40Q: Palabra del alfabeto radiofónico para la letra C
+40A: CHARLIE
+
+41Q: Palabra del alfabeto radiofónico para la letra E
+41A: ECHO
+
+42Q: Palabra del alfabeto radiofónico para la letra F
+42A: FOXTROT
+
+43Q: Palabra del alfabeto radiofónico para la letra H
+43A: HOTEL
+
+44Q: Palabra del alfabeto radiofónico para la letra M
+44A: MIKE
+
+45Q: Palabra del alfabeto radiofónico para la letra P
+45A: PAPA
+
+46Q: Palabra del alfabeto radiofónico para la letra S
+46A: SIERRA
+
+47Q: ¿Qué fenómeno físico es el principal responsable del alcance de los walkie-talkies?
+47A: Propagación
+
+48Q: ¿De qué fabricante son los walkies que se compró Javier Romero en 2016?
+48A: Motorola
+
+49Q: ¿De qué fabricante son los walkies que tuvo Salvador Castillo en 2016?
+49A: Topcom
+
+50Q: ¿De qué fabricante son los walkies que se compró Juan Mendez en 2016?
+50A: Baofeng
+
+51Q: Nombre común del rango de frecuencias usado para operaciones marítimas
+51A: Banda marina
+
+52Q: ¿Qué significa PMR?
+52A: Professional Mobile Radio (radio móvil privada)
+
+53Q: ¿Cuántos canales se establecen en la banda PMR446?
+53A: 8
+
+54Q: ¿Qué significa el 446 en el nombre PMR446?
+54A: Frecuencia de la banda
+
+55Q: ¿Cuántos walkies acabaron Los Extreviaos la temporada 2015/2016?
+55A: 8
+
+56Q: ¿Quién fue el primer componente de Los Extraviaos que adquirió walkies?
+56A: Arturo Borrero
+
+57Q: ¿Quién fue el último componente de Los Extraviaos que adquirió walkies en la temporada 2015/2016?
+57A: Javier Romero
+
+58Q: En la temporada 2015/2016, ¿Qué componente de Los Extraviaos poseedor de walkies no los usó en aventuras?
+58A: Juan Mendez
+
+59Q: ¿Qué significan las siglas UHF?
+59A: Ultra High Frequency / Frecuencia Ultra Alta
+
+60Q: ¿Qué nombre recibe la banda de frecuencias que ocupa el rango de 300 MHz a 3 GHz?
+60A: UHF
+
+61Q: ¿Qué significan las siglas VHF?
+61A: Very High Frequency / Frecuencia Muy Alta
+
+62Q: ¿Qué nombre recibe la banda de frecuencias que ocupa el rango de 30 MHz a 300 MHz?
+62A: VHF
+
+63Q: ¿Qué sistema de comunicación se usó antes que la voz en las transmisiones por radio?
+63A: Morse
+
+64Q: ¿Para qué uso fueron desarrollados originalmente los walkie-talkies?
+64A: Uso militar
+
+65Q: ¿Qué nombre recibe un mecanismo de comunicación que es bidireccional pero no simultaneo?
+65A: Semidúplex / Half-duplex
+
+66Q: ¿Qué dispositivo suelen usar los radioaficionados para amplificar la señal de las comunicaciones de radio?
+66A: Repetidor
+
+67Q: ¿Cuál es la unidad de frecuencia en el Sistema Internacional de Unidades?
+67A: Hercio
+
+68Q: ¿Cómo se denomina comunmente la transmisión que se emite sin saber si alguien la está escuchando?
+68A: Transmisión a ciegas
+
+69Q: ¿En qué unidad se mide la resistencia de una antena de walkie-talkie?
+69A: Ohmios
+
+70Q: ¿Qué nombre común recibe el sistema de cifrado que usan en los walkie-talkies la policía y guardia civil?
+70A: Tetrapol
+
+71Q: ¿Código morse para SOS?
+71A: ...---... (3 puntos, 3 rayas, 3 puntos)
+
+72Q: En el alfabeto morse, ¿cómo se traduce la letra A?
+72A: .- (punto, raya)
+
+73Q: En el alfabeto morse, ¿cómo se traduce la letra B?
+73A: -... (raya, 3 puntos)
+
+74Q: En el alfabeto morse, ¿cómo se traduce la letra C?
+74A: -.-. (raya, punto, raya, punto)
+
+75Q: En el alfabeto morse, ¿cómo se traduce la letra D?
+75A: -.. (raya, 2 puntos)
+
+76Q: En el alfabeto morse, ¿cómo se traduce la letra E?
+76A: . (punto)
+
+77Q: En el alfabeto morse, ¿cómo se traduce la letra F?
+77A: ..-. (2 puntos, raya, punto)
+
+78Q: En el alfabeto morse, ¿cómo se traduce la letra G?
+78A: --. (2 rayas, punto)
+
+79Q: En el alfabeto morse, ¿cómo se traduce la letra H?
+79A: .... (4 puntos)
+
+80Q: En el alfabeto morse, ¿cómo se traduce la letra I?
+80A: .. (2 puntos)
+
+81Q: En el alfabeto morse, ¿cómo se traduce la letra J?
+81A: .--- (punto, 3 rayas)
+
+82Q: En el alfabeto morse, ¿cómo se traduce la letra K?
+82A: -.- (raya, punto, raya)
+
+83Q: En el alfabeto morse, ¿cómo se traduce la letra L?
+83A: .-.. (punto, raya, 2 puntos)
+
+84Q: En el alfabeto morse, ¿cómo se traduce la letra M?
+84A: -- (2 rayas)
+
+85Q: En el alfabeto morse, ¿cómo se traduce el número 1?
+85A: .---- (punto, 4 rayas)
+
+86Q: ¿Qué función recorre todas las frecuencias en busca de una en la que se reciba transmisión?
+86A: Escaner
+
+87Q: ¿Qué parámetro especifica el valor mínimo de transmisión necesario para que el walkie suene?
+87A: Umbral / threshold
+
+88Q: ¿Qué función permite limitar los ruidos de fondo de la señal de radio, silenciándolos?
+88A: Squelch
+
+89Q: En el alfabeto morse, ¿cómo se traduce el número 2?
+89A: ..--- (2 puntos, 3 rayas)
+
+90Q: ¿Con qué nombre común se conoce la técnica de cifrado por inversión espectral de una señal de radio?
+90A: Secrafonía
+
+91Q: En el alfabeto morse, ¿cómo se traduce el número 0?
+91A: ----- (5 rayas)
+
+92Q: ¿Con qué nombre se conocían en la antiguedad los primeros walkie-talkies?
+92A: handie-talkies
+
+93Q: ¿Qué empresa fabricó el primer walkie-talkie?
+93A: Motorola
+
+94Q: ¿En qué guerra se utilizaron por primera vez los walkie-talkies?
+94A: Segunda Guerra Mundial
+
+95Q: ¿Qué tipo de modulación usan las señales de walkie-talkies?
+95A: Modulación de frecuencia (FM)
+
+96Q: En códigos Q, ¿qué significa QRT?
+96A: Cese de transmisión
+
+97Q: En códigos Q, ¿qué significa QRV?
+97A: Listo para recibir
+
+98Q: En códigos Q, ¿qué significa QAP?
+98A: A la espera
+
+99Q: En códigos Q, ¿qué significa QTH?
+99A: Posición geográfica o ubicación
+
+100Q: En códigos Q, ¿qué significa QSO?
+100A: Establecer comunicación
+
+101Q: En códigos Q, ¿qué significa QRZ?
+101A: Identificación
+
+102Q: ¿La ausencia de qué elemento hace a los walkie-talkies útiles en aventuras en lugares remotos?
+102A: Infraestructura externa / adicional
