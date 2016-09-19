@@ -43,9 +43,10 @@ You may use the `format.sh` script to preformat datafiles.
 The following call will generate 100 trivial cards in 5 categories in the
 output file `trivial.html`.
 
+```
 ./trivgen.sh -c5 -C100 --data cat1.txt --data cat2.txt --data cat3.txt \
 		--data cat4.txt --data cat5.txt -o trivial.html
-
+```
 
 ### Limitations
 
